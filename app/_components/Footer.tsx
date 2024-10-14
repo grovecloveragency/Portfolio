@@ -1,4 +1,4 @@
-import { Github, Instagram, Linkedin, Twitter } from "lucide-react";
+import { Github, Instagram, Linkedin } from "lucide-react";
 import Link from "next/link";
 
 const Footer = () => {
@@ -17,7 +17,7 @@ const Section1 = () => {
       <div className="flex justify-center items-center lg:gap-x-14">
         <ul className="flex flex-col lg:gap-y-2">
           <li className="lg:mb-2 lg:text-sm">Socials:</li>
-          <Link href="">
+          <Link href="https://github.com/grovecloveragency?tab=repositories">
             <li className="flex items-center lg:text-xs hover:underline">
               Github
               <span>
@@ -25,7 +25,7 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
-          <Link href="">
+          <Link href="https://www.linkedin.com/in/groven-builds-251ba4330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
             <li className="flex items-center lg:text-xs hover:underline">
               LinkedIn
               <span>
@@ -33,7 +33,7 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
-          <Link href="">
+          <Link href="https://www.instagram.com/groven_builds/profilecard/?igsh=dDQycnA3aGY4bTU5">
             <li className="flex items-center lg:text-xs hover:underline">
               Instagram
               <span>
@@ -41,14 +41,7 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Twitter
-              <span>
-                <Twitter className="w-4 h-4 ml-2" />
-              </span>
-            </li>
-          </Link>
+          
         </ul>
         <ul className="flex flex-col lg:gap-y-2">
           <li className="lg:mb-2 lg:text-sm">Team Members:</li>
