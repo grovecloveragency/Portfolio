@@ -86,7 +86,7 @@ const Section2 = () => {
   return (
     <div className="flex justify-between items-center text-neutral-100 font-unbounded">
       <h1 className="relative lg:text-[5rem] tracking-wide uppercase font-bold font-heimdal">
-        Grove
+        Groven
         <sup className="absolute top-0 text-base lg:text-[1rem] p-2 rounded-[100%] font-unbounded">
           TM
         </sup>
