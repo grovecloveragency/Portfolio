@@ -15,7 +15,7 @@ export function TypewriterEffectSmoothDemo() {
       text: "Add Your Project",
     },
     {
-      text: "Grove.",
+      text: "Groven.",
       className: "text-purple-500 dark:text-blue-500",
     },
   ];
