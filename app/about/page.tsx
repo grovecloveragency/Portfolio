@@ -52,7 +52,7 @@ const Page = () => {
       
       <div className="main flex justify-center" data-bgcolor="#ffffff">
         <div className="absolute z-10 lg:mt-80 mt-28 text-center">
-          <h1 className="font-unbounded font-bold text-3xl  lg:text-7xl">Team Grove</h1>
+          <h1 className="font-unbounded font-bold text-3xl  lg:text-7xl">Team Groven</h1>
           <p className="font-semibold font-alice text-2xl">
             Sense of growth, community, and organic development
           </p>
@@ -75,7 +75,7 @@ const Page = () => {
           <div className=" w-full mx-auto text-left">
           
             <p className="leading-relaxed lg:text-4xl text-2xl text-black font-unbounded font-bold">
-              At <span className=" font-extrabold text-white">Grove</span> we believe in cultivating innovative solutions that empower businesses to thrive in the digital age. Our mission is to transform the way companies operate by providing cutting-edge software products tailored to meet the unique needs of our clients.
+              At <span className=" font-extrabold text-white">Groven</span> we believe in cultivating innovative solutions that empower businesses to thrive in the digital age. Our mission is to transform the way companies operate by providing cutting-edge software products tailored to meet the unique needs of our clients.
 
 
             </p>
@@ -89,7 +89,7 @@ const Page = () => {
 
       <div className="main lg:p-24" data-bgcolor="#7E60BF">
         <h2 className="text-4xl font-bold font-unbounded text-center p-4">
-          We are Team Grove
+          We are Team Groven
         </h2>
         {/* <Staff /> */}
         <CardHoverEffectDemo/>
