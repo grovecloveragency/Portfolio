@@ -5,7 +5,7 @@ const Wedo = () => {
         <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="text-center mb-20">
-      <h1 className=" lg:text-7xl text-4xl font-medium text-center title-font font-alice text-gray-900 mb-4">Above all, we believe in Grove relationships, exceptional outcomes, and having fun along the way.</h1>
+      <h1 className=" lg:text-7xl text-4xl font-medium text-center title-font font-alice text-gray-900 mb-4">Above all, we believe in Groven relationships, exceptional outcomes, and having fun along the way.</h1>
       
     </div>
     <div className="flex flex-wrap -m-4">
