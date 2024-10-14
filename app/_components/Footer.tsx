@@ -70,6 +70,11 @@ const Section1 = () => {
               Abdul Basit Khan - Digital Marketing
             </li>
           </Link>
+          <Link href="">
+            <li className="flex items-center lg:text-xs hover:underline">
+              Saquib Badami- HR
+            </li>
+          </Link>
         </ul>
       </div>
       <div />
