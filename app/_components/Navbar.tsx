@@ -37,7 +37,7 @@ const Navbar = () => {
       <Link href="/">
         <HyperText
           className="lg:text-3xl text-2xl font-extrabold font-heimdal uppercase cursor-pointer"
-          text="Grove"
+          text="Groven"
         />
       </Link>
       <div className="lg:flex hidden items-center gap-x-8 font-unbounded">
