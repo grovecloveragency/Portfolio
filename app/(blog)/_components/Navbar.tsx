@@ -11,7 +11,7 @@ const Navbar = () => {
       </h3>
       <Link href="/">
         <h1 className="lg:text-[5rem] text-5xl text-center font-semibold font-heimdal uppercase tracking-wider">
-          Grove
+          Groven
         </h1>
       </Link>
       <div className="border-y border-black lg:w-[90%] w-[95%] font-unbounded mt-2">

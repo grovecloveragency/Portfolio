@@ -5,7 +5,6 @@ import Footer from "./_components/Footer";
 import MobileFooter from "./_components/MobileFooter";
 import Navbar from "./_components/Navbar";
 
-
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -18,7 +17,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Grove-St.",
+  title: "Groven Builds",
   description:
     "A creative agency dedicated to delivering impactful design and development solutions.",
 };
@@ -30,22 +29,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-       
-        
-      
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <header className="sticky top-0 z-50">
-        <Navbar />
+          <Navbar />
         </header>
         {children}
         <footer>
-        <Footer />
-        <MobileFooter />
-      </footer>
+          <Footer />
+          <MobileFooter />
+        </footer>
       </body>
-      
     </html>
   );
 }
