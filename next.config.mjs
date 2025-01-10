@@ -26,7 +26,7 @@ const nextConfig = {
       'goldenbellsacademy.com',
       'invoker.lol',
       'efreeinvoice.com',
-      'aceternity.com', // Add this line
+      'aceternity.com', 
     ],
   },
 };
