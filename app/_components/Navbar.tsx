@@ -94,7 +94,7 @@ const MobileMenu = () => {
           </BoxReveal>
         </SheetTrigger>
         <SheetContent
-          side="top"
+          side="right"
           className="bg-white flex text-center flex-col justify-center items-center w-full h-[100%] text-black font-unbounded lg:gap-y-16 gap-y-10"
         >
           <Link href="/blogs" onClick={closeSheet}>
