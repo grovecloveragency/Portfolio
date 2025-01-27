@@ -25,7 +25,7 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
-          <Link href="https://www.linkedin.com/in/groven-builds-251ba4330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <Link href="https://www.linkedin.com/company/groven-agency/">
             <li className="flex items-center lg:text-xs hover:underline">
               LinkedIn
               <span>
@@ -33,7 +33,8 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
-          <Link href="https://www.instagram.com/groven_builds/profilecard/?igsh=dDQycnA3aGY4bTU5">
+          
+{/*           <Link href="https://www.instagram.com/groven_builds/profilecard/?igsh=dDQycnA3aGY4bTU5">
             <li className="flex items-center lg:text-xs hover:underline">
               Instagram
               <span>
@@ -41,41 +42,12 @@ const Section1 = () => {
               </span>
             </li>
           </Link>
+          no instagram yet add after creating one*/
+          
+          }
           
         </ul>
-        <ul className="flex flex-col lg:gap-y-2">
-          <li className="lg:mb-2 lg:text-sm">Team Members:</li>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Amaan Shaikh - Founder
-            </li>
-          </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Ayman Sayed - Co-Founder
-            </li>
-          </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Saad Sayyed - CEO/Director
-            </li>
-          </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Faraz Pathan - Project Manager
-            </li>
-          </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Abdul Basit Khan - Digital Marketing
-            </li>
-          </Link>
-          <Link href="">
-            <li className="flex items-center lg:text-xs hover:underline">
-              Saquib Badami- HR
-            </li>
-          </Link>
-        </ul>
+       
       </div>
       <div />
     </div>
